@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+public class Aguila: Aves
+{
+    public string Comportamiento { get; set; }
+    public int PIncubacion { get; set; }
+
+    public void Carnivora()
+    {
+        Console.WriteLine("Son Carnivoras");
+    }
+}
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\Pilares\\Pilares.csproj": {}
+    "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\clases-animales\\Pilares\\Pilares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\Pilares\\Pilares.csproj": {
+    "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\clases-animales\\Pilares\\Pilares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\Pilares\\Pilares.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\clases-animales\\Pilares\\Pilares.csproj",
         "projectName": "Pilares",
-        "projectPath": "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\Pilares\\Pilares.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\clases-animales\\Pilares\\Pilares.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\Pilares\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\L2\\Ejercicios\\clases-animales\\Pilares\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
